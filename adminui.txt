@@ -1,0 +1,3 @@
+welcome to admin page 
+login:
+pwd:
